@@ -26,7 +26,7 @@ A simple C++ foundation for working with complex numbers.
 
 ### README
 * <s>Work on a better layout</s>
-* <s>Write a better concise description</s>
+* Write the missing parts
 * Enhance the Features section
 * Implement badges
 * Show examples
